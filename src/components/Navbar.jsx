@@ -24,7 +24,7 @@ function Navbar() {
         </div>
         <a href="#contact">
           <button className="bg-gradient-to-r from-emerald-400 to-sky-400 text-white hidden md:inline transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full">
-            Connect With Me
+            Connect
           </button>
         </a>
       </div>
