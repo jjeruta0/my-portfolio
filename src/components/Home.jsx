@@ -29,11 +29,7 @@ function Home() {
             Contact With Me
           </button>
         </a>
-        <a
-          href="/public/file/jjerutaCV-0312-fed.pdf"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <a href="/public/cv.pdf" target="_blank" rel="noopener noreferrer">
           <button className="bg-gradient-to-r from-sky-400 to-emerald-400 text-white hidden md:inline transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full">
             Resume/CV
           </button>
