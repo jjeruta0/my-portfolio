@@ -25,12 +25,12 @@ function Home() {
       </p>
       <div className="mt-8 space-x-4">
         <a href="#contact">
-          <button className="bg-gradient-to-r from-emerald-400 to-sky-400 text-white hidden md:inline transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full">
+          <button className="bg-gradient-to-r from-emerald-400 to-sky-400 text-white md:inline transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full">
             Contact With Me
           </button>
         </a>
         <a href="/cv.pdf" target="_blank" rel="noopener noreferrer">
-          <button className="bg-gradient-to-r from-sky-400 to-emerald-400 text-white hidden md:inline transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full">
+          <button className="bg-gradient-to-r from-sky-400 to-emerald-400 text-white md:inline transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full">
             Resume/CV
           </button>
         </a>
